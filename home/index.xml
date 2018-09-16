@@ -40,7 +40,7 @@ function GetLatestReleaseInfo() { $.getJSON(&amp;lsquo;https://api.github.com/re
       
       <guid>/home/about/</guid>
       <description>Biography Gil Piven is a superman.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.</description>
+Bla bla, add description here.</description>
     </item>
     
     <item>
